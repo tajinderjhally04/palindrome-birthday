@@ -1,0 +1,11 @@
+body {
+  background-color: aqua;
+}
+
+main {
+  text-align: center;
+}
+
+#result {
+  margin-top: 0.8rem;
+}
